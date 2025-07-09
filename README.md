@@ -22,9 +22,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/AMBCS01__________
+[youtube]: https://www.youtube.com/@AMBCS01__________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/aaron-m-brown-9a2b76258/________
+[linkedin]: https://https://www.linkedin.com/in/aaron-m-brown-9a2b76258/________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
